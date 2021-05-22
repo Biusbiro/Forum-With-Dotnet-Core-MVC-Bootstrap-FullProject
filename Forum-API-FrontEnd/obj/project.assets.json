@@ -8,31 +8,32 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bismarck\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Biu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\REPOSITORIOS\\Forum With Dotnet Core MVC Bootstrap FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
+      "projectUniqueName": "C:\\PROJETOS\\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
       "projectName": "Forum-API-FrontEnd",
-      "projectPath": "C:\\REPOSITORIOS\\Forum With Dotnet Core MVC Bootstrap FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
-      "packagesPath": "C:\\Users\\Bismarck\\.nuget\\packages\\",
-      "outputPath": "C:\\REPOSITORIOS\\Forum With Dotnet Core MVC Bootstrap FullProject\\Forum-API-FrontEnd\\obj\\",
+      "projectPath": "C:\\PROJETOS\\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
+      "packagesPath": "C:\\Users\\Biu\\.nuget\\packages\\",
+      "outputPath": "C:\\PROJETOS\\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\\Forum-API-FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bismarck\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Biu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://forlogic.pkgs.visualstudio.com/_packaging/Metroex-Desktop/nuget/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -67,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21077.7\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

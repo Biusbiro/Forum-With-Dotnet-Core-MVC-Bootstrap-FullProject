@@ -38,3 +38,47 @@ C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-Front
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.pdb
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.genruntimeconfig.cache
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.csproj.CopyComplete
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.csprojAssemblyReference.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.AssemblyInfoInputs.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.AssemblyInfo.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.RazorAssemblyInfo.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.RazorAssemblyInfo.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\staticwebassets\Forum-API-FrontEnd.StaticWebAssets.Manifest.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\staticwebassets\Forum-API-FrontEnd.StaticWebAssets.xml
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\scopedcss\bundle\Forum-API-FrontEnd.styles.css
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.TagHelpers.input.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.TagHelpers.output.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.RazorCoreGenerate.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Categories.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Posts.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Subcategories.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Topics.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.RazorTargetAssemblyInfo.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.RazorTargetAssemblyInfo.cs
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.dll
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\ref\Forum-API-FrontEnd.dll
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.pdb
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\appsettings.json
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.exe
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.deps.json
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.runtimeconfig.json
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.runtimeconfig.dev.json
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.dll
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\ref\Forum-API-FrontEnd.dll
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.pdb
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.Views.dll
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\bin\Debug\net5.0\Forum-API-FrontEnd.Views.pdb
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.Views.pdb
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.genruntimeconfig.cache
+C:\PROJETOS\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\Forum-API-FrontEnd\obj\Debug\net5.0\Forum-API-FrontEnd.csproj.CopyComplete

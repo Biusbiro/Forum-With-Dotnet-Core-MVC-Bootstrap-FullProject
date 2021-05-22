@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WdYO12azrcU7hUx+uXEmQ2sAmX0e377BUYJnmO/kd3fwyLF0PfKNgdghJyMBKKPWis9uSoDqBWqFTVSLX0p57Q==",
+  "dgSpecHash": "H2s/d12w9EdoA+NsBgIz91IPX3JHG2veUAk/B5N45qotgyRm3zExKe8k11TwijS2OJ+fsJvQbF1Ku12ulxN/YA==",
   "success": true,
-  "projectFilePath": "C:\\REPOSITORIOS\\Forum With Dotnet Core MVC Bootstrap FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
+  "projectFilePath": "C:\\PROJETOS\\Forum-With-Dotnet-Core-MVC-Bootstrap-FullProject\\Forum-API-FrontEnd\\Forum-API-FrontEnd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

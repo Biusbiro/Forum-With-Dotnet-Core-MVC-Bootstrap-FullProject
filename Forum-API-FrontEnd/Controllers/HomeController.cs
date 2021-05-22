@@ -23,7 +23,27 @@ namespace Forum_API_FrontEnd.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Categories()
+        {
+            return View();
+        }
+
+        public IActionResult Posts()
+        {
+            return View();
+        }
+
+        public IActionResult Topics()
+        {
+            return View();
+        }
+
+        public IActionResult Users()
+        {
+            return View();
+        }
+
+        public IActionResult Subcategories()
         {
             return View();
         }
