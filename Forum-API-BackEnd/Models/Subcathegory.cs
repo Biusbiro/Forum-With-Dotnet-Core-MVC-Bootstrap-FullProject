@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Forum_API_BackEnd.Models
 {
-    public class Subcategory
+    public class Subcathegory
     {
         [Key]
         public int Id { get; set; }

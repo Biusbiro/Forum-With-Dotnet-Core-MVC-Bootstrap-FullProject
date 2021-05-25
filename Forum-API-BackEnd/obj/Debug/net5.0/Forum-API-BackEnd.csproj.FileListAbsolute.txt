@@ -27,3 +27,8 @@ C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackE
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\obj\Debug\net5.0\ref\Forum-API-BackEnd.dll
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\obj\Debug\net5.0\Forum-API-BackEnd.pdb
 C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\obj\Debug\net5.0\Forum-API-BackEnd.genruntimeconfig.cache
+C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\REPOSITORIOS\Forum With Dotnet Core MVC Bootstrap FullProject\Forum-API-BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
